@@ -1,6 +1,0 @@
-train: /root/fiftyone/open-images-v7/train/images
-val: /root/fiftyone/open-images-v7/validation/images
-
-
-names:
-  0: Person
