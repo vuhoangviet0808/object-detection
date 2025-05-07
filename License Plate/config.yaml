@@ -1,0 +1,6 @@
+train: ../License-Plate-Recognition-4/train/images
+val: ../License-Plate-Recognition-4/valid/images
+
+
+names:
+  0: License Plate
