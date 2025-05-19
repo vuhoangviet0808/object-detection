@@ -2,7 +2,7 @@ train: ./OID/train/images
 val: ./OID/val/images
 
 nc: 90
-class_names:
+names:
   [
     "Bánh mì que",
     "Táo",
